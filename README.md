@@ -1,23 +1,14 @@
 # Platform Engineering Portfolio
 
-[https://img.shields.io/badge/Linux-RHEL%20%7C%20Ubuntu-green
+![Linux](httpsields.io/badge/Linux-RHEL%20%7C%20Ubuntu-green
 https://img.shields.io/badge/Kubernetes-CCE-blue
-https://img.shields.io/badge/Helm-Charts-purple
-![Huawei](httpselds.io/badge/Huawei-Cloud-red
-![Grafana](https://img.shields.io/badge/ervability-orange
-![Prometheus](https://img.shields.io/badgenitoring-yellow
-![Son://img.shields.io/badge/SonarQube-Code%20Quality-blue
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL
-![AzureDevOps](https://img.shields.io/badge-Integrated-blue
-](https://img.shields.io/badge/Linux-RHEL%20%7C%20Ubuntu-green
-![Kubernetes](ields.io/badge/Kubernetes-CCE-blue
-https://img.shields.io/badge/Helm-Charts-purple
+![Hel://img.shields.io/badge/Helm-Charts-purple
 https://img.shields.io/badge/Huawei-Cloud-red
-![Grafana](.shields.io/badge/Grafana-Observability-orange
-![Prometheus](https://img.ge/Prometheus-Monitoring-yellow
-![SonarQube](https://img.shields.io/be-Code%20Quality-blue
-![Post//img.shields.io/badge/PostgreSQL-RDS-lightblue
-![Azure DevOps](httpso/badge/Azure%20DevOps-Integrated-blue)
+![Graf//img.shields.io/badge/Grafana-Observability-orange
+![Prometheus](ields.io/badge/Prometheus-Monitoring-yellow
+https://img.shields.io/badge/SonarQube-Code%20Quality-blue
+![PostgreSQL](https://img.shields.io/badgeS-lightblue
+![Azure/img.shields.io/badge/Azure%20DevOps-Integrated-blue
 
 ## About Me
 
