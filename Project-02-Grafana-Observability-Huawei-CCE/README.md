@@ -114,3 +114,15 @@ The solution provides visibility into:
 - Dashboard creation
 - ELB integration
 - Operational observability
+
+---
+
+## Project Outcome
+
+Successfully deployed a Kubernetes observability platform on Huawei Cloud CCE using the kube-prometheus-stack Helm chart.
+
+The solution included Grafana, Prometheus, Alertmanager, Node Exporter, and kube-state-metrics, providing visibility into cluster health, node performance, resource utilization, and workload monitoring.
+
+Grafana was exposed through a dedicated Huawei ELB and configured to monitor Kubernetes infrastructure and application workloads, including the SonarQube platform running in the cluster.
+
+The deployment delivered a centralized monitoring solution for operational visibility and troubleshooting.
