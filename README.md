@@ -1,11 +1,12 @@
 # Platform Engineering Portfolio
 
-https://img.shields.io/badge/Linux-Administration-green
+!ttps://img.shields.io/badge/Linux-Administration-green
 https://img.shields.io/badge/Kubernetes-CCE-blue
 https://img.shields.io/badge/Helm-Deployed-purple
+
 https://img.shields.io/badge/Grafana-Monitoring-orange
 https://img.shields.io/badge/SonarQube-Code%20Quality-blue
-https://img.shields.io/badge/PostgreSQL-RDS-blue
+![Post//img.shields.io/badge/PostgreSQL-RDS-blue
 
 ## About Me
 
