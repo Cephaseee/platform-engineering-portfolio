@@ -56,21 +56,37 @@ Huawei CCE Cluster
 
 ## Screenshots
 
-### Monitoring Stack
+### Grafana Login Page
+
+screenshots/grafana-login-page.png
+
+### Grafana Home
+
+screenshots/grafana-home.png
+
+### Monitoring Stack Pods
 
 screenshots/observability-pods.png
 
-### Grafana Dashboard
+### Huawei CCE Dashboard
 
-screenshots/grafana-dashboard.png
+screenshots/grafana-cce-dashboard.png
+
+### Node Monitoring Dashboard
+
+screenshots/grafana-node-dashboard-01.png
+
+### Additional Node Metrics
+
+screenshots/grafana-node-dashboard-02.png
 
 ### Huawei ELB
 
 screenshots/grafana-elb.png
 
-### Node Monitoring
+### Grafana LoadBalancer Service
 
-screenshots/node-monitoring.png
+screenshots/grafana-loadbalancer-service.png
 
 ---
 
