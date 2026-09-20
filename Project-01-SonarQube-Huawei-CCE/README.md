@@ -53,13 +53,29 @@ PostgreSQL RDS
 
 ## Screenshots
 
-### Azure DevOps Integration
+### Huawei CCE Cluster
 
-screenshots/azure-devops-integration.png
+screenshots/cce-cluster-overview.png
+
+### Kubernetes Worker Nodes
+
+screenshots/kubectl-get-nodes.png
+
+### SonarQube Helm Deployment
+
+screenshots/sonarqube-helm-list.png
 
 ### SonarQube Pods
 
 screenshots/sonarqube-pods.png
+
+### Azure DevOps Integration
+
+screenshots/azure-devops-integration.png
+
+### Repository Import
+
+screenshots/repository-import-screen.png
 
 ### SonarQube Dashboard
 
@@ -68,6 +84,10 @@ screenshots/sonarqube-dashboard.png
 ### PostgreSQL RDS
 
 screenshots/rds-postgresql.png
+
+### Database Validation
+
+screenshots/database-validation.png
 
 ---
 
