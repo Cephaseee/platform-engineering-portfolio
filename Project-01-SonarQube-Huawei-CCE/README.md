@@ -99,3 +99,13 @@ screenshots/database-validation.png
 - PostgreSQL administration
 - Azure DevOps onboarding
 - Helm-based deployments
+
+---
+
+## Project Outcome
+
+Successfully deployed SonarQube Enterprise on Huawei Cloud CCE using Helm and integrated it with Azure DevOps for repository onboarding and code quality analysis.
+
+The solution was deployed behind a Huawei ELB and Kubernetes Ingress, with PostgreSQL RDS serving as the backend database. An ECS administration server was also provisioned to validate database connectivity and support troubleshooting activities.
+
+The deployment provided a working enterprise code quality platform capable of repository integration, Quality Gate reporting, and centralized code analysis.
