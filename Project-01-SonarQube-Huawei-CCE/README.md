@@ -1,17 +1,32 @@
 # SonarQube Enterprise Deployment on Huawei CCE
 
-## Overview
+## Project Overview
 
 Designed and implemented a SonarQube Enterprise deployment on Huawei Cloud using Kubernetes.
 
-## Objectives
+The objective was to provide centralized code quality analysis and Azure DevOps integration for enterprise applications.
 
-- Deploy SonarQube Enterprise using Helm
-- Integrate with Azure DevOps
-- Store application data in PostgreSQL RDS
-- Expose the application through Huawei ELB and Kubernetes Ingress
+---
 
-## Technologies
+## Architecture
+
+```text
+Users
+   |
+Huawei ELB
+   |
+NGINX Ingress
+   |
+SonarQube Service
+   |
+SonarQube Pod
+   |
+PostgreSQL RDS
+```
+
+---
+
+## Technologies Used
 
 - Huawei Cloud
 - CCE Kubernetes
@@ -20,34 +35,47 @@ Designed and implemented a SonarQube Enterprise deployment on Huawei Cloud using
 - PostgreSQL RDS
 - Azure DevOps
 - Linux
+- ELB
 
-## Architecture
+---
 
-Users
-|
-Huawei ELB
-|
-NGINX Ingress
-|
-SonarQube Service
-|
-SonarQube Pod
-|
-PostgreSQL RDS
+## Key Activities
 
-## Activities Performed
-
-- Built Huawei Cloud infrastructure
-- Deployed SonarQube using Helm
+- Provisioned Huawei Cloud infrastructure
+- Installed SonarQube using Helm
 - Configured PostgreSQL RDS backend
 - Integrated Azure DevOps
 - Configured Kubernetes Ingress
-- Troubleshot connectivity and authentication issues
+- Verified database connectivity through ECS administration server
+- Troubleshot networking and authentication issues
+
+---
+
+## Screenshots
+
+### Azure DevOps Integration
+
+screenshots/azure-devops-integration.png
+
+### SonarQube Pods
+
+screenshots/sonarqube-pods.png
+
+### SonarQube Dashboard
+
+screenshots/sonarqube-dashboard.png
+
+### PostgreSQL RDS
+
+screenshots/rds-postgresql.png
+
+---
 
 ## Lessons Learned
 
-- Kubernetes networking
+- Kubernetes networking fundamentals
 - Ingress architecture
-- Helm deployments
-- PostgreSQL administration
 - ELB integration
+- PostgreSQL administration
+- Azure DevOps onboarding
+- Helm-based deployments
